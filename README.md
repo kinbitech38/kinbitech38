@@ -1,6 +1,6 @@
 * 👋 Hi, I’m @kinbitech
-* 👀 I’m interested in Html/Css, JavaScript/typewrite development and cloud computing 
-* 🌱 I’m currently learning JavaScript/TypeScript(React)/ Cloud computing 
+* 👀 I’m interested in Html/Css,bootstrap,JavaScript/TypeScript(React) development and cloud computing 
+* 🌱 I’m currently learning Cloud computing/ DevsOps 
 * 💞️ I’m looking to collaborate on ANY PROJECT I CAN
 * 📫 How to reach me akinbideji38@gmail.com, 07062310129
 
