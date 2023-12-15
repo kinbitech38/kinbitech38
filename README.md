@@ -1,5 +1,5 @@
 * 👋 Hi, I’m @kinbitech
-* 👀 I’m interested in Html/Css,bootstrap,JavaScript/TypeScript(React) development and cloud computing 
+* 👀 I’m interested in Html/Css,bootstrap) and cloud computing 
 * 🌱 I’m currently learning Cloud computing/ DevsOps 
 * 💞️ I’m looking to collaborate on ANY PROJECT I CAN
 * 📫 How to reach me akinbideji38@gmail.com, 07062310129
