@@ -1,7 +1,6 @@
 * 👋 Hi, I’m @kinbitech
 * 👀 I’m interested in Html/Css,bootstrap) 
-* 🌱 I’m currently learning Cloud computing/ DevsOps 
-* I'm still learning 
+* 🌱 
 * 📫 How to reach me, 07062310129.
 
 <!---
