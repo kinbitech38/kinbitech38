@@ -1,5 +1,5 @@
-* 👋 Hi, I’m @kinbitech
-* 👀 I’m interested in Html/Css,bootstrap) 
+* 👋 Hi, I’m @Seyikinbi
+* 👀 I’m interested in Html,Css,bootstrap) 
 * 🌱 
 * 📫 How to reach me, 07062310129.
 
